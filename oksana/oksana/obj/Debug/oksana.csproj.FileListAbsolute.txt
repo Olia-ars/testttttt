@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\bin\Debug\oksana.exe.config
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\bin\Debug\oksana.exe
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\bin\Debug\oksana.pdb
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.Form1.resources
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.Properties.Resources.resources
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.csproj.GenerateResource.cache
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.exe
+C:\Users\User\Desktop\универ\ДЕМОЭКЗ\V prodj\oksana\oksana\obj\Debug\oksana.pdb
