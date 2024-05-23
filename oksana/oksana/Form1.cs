@@ -25,6 +25,7 @@ namespace oksana
             long totalMemory = GC.GetTotalMemory(false);
             double memoryInMegabytes = totalMemory / (1024.0);
             textBox1.Text = $"Используемая память: {memoryInMegabytes:F1} МБ";
+            //12312323131231322312312312
         }
     }
 }
